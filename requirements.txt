@@ -4,3 +4,4 @@ seaborn
 -e .
 scikit-learn
 setuptools
+dill
